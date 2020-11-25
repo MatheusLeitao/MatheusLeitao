@@ -30,9 +30,10 @@
 <br />
 <br />
 
----
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusleitao)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusleitao)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 [instagram]: https://www.instagram.com/matheusrleitao
 [linkedin]: https://www.linkedin.com/in/matheusrleitao
