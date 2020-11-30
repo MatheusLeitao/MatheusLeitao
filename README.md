@@ -2,7 +2,7 @@
 
 ## I'm currently diving deep into development world!!
 - 🔭 Most exciting project was integration with a Brazilian Fintech.
-- 🤓 Fell in love with Javascript
+- 💘 Fell in love with Javascript
 - 🚀 Always learning something new, never stopping!
 - 🥅 2020 Goals: To put up with 😂.
 
