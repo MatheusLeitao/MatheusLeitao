@@ -4,7 +4,7 @@
 - 🔭 Most exciting project was integration with a Brazilian Fintech.
 - 💘 Fell in love with Javascript
 - 🚀 Always learning something new, never stopping!
-- 🥅 2021 Goals: Vaccine 😂.
+
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
